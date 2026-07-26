@@ -2,6 +2,7 @@ uma analise dos dados de um ecommerce brasileiro, usando python, pandas e matplo
 DataSet: Brazilian E-Commerce Public Dataset by Olist
 
 perguntas respondidas  com  a análise:
+<br/>
 1 - quais produtos faturaram mais (mostrando o ID do produto e a sua categoria em gráfico)
 <br/>
 2 - quais produtos venderam mais em quantidade (mostrando o ID do produto e a sua categoria em gráfico)
