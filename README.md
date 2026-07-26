@@ -1,5 +1,8 @@
 uma analise dos dados de um ecommerce brasileiro, usando python, pandas e matplotlib feita no Jupyter notebook.
+<br/>
 DataSet: Brazilian E-Commerce Public Dataset by Olist
+
+<br/>
 
 perguntas respondidas  com  a análise:
 <br/>
