@@ -1,8 +1,8 @@
 # 📊Análise dos Dados de um E-commerce 
 ### O que o projeto é:
-Uma análise dos dados de um ecommerce brasileiro, utilizando Python, Pandas e Matplotlib feita no Jupyter Notebook. O projeto contêm tratamentos de diversos dados, leitura e criação de tabelas, exibição de informações pertinentes utilizando gráficos e um relatório final automatizado com as informações relevantes obtidas durante toda a análise.
+Uma análise dos dados de um ecommerce brasileiro, utilizando Python, Pandas e Matplotlib feita no Jupyter Notebook. O projeto contêm tratamentos de diversos dados, leitura e criação de tabelas, exibição de informações utilizando gráficos e um relatório final automatizado com as informações relevantes obtidas durante toda a análise.
 <br/>
-Base de Dados utilizada: Brazilian E-Commerce Public Dataset by Olist
+Base de Dados utilizada: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 <br/>
 
 ### ✅ Perguntas respondidas  com  a análise
