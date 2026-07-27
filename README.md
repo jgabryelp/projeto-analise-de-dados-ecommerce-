@@ -1,22 +1,22 @@
-uma analise dos dados de um ecommerce brasileiro, usando python, pandas e matplotlib feita no Jupyter notebook.
+Uma analise dos dados de um ecommerce brasileiro, usando Python, Pandas e Matplotlib feita no Jupyter Notebook.
 <br/>
 DataSet: Brazilian E-Commerce Public Dataset by Olist
 
 <br/>
 
-perguntas respondidas  com  a análise:
+Perguntas respondidas  com  a análise:
 <br/>
-1 - quais produtos faturaram mais (mostrando o ID do produto e a sua categoria em gráfico)
+1 - Quais produtos faturaram mais (mostrando o ID do produto e a sua categoria em gráfico)
 <br/>
-2 - quais produtos venderam mais em quantidade (mostrando o ID do produto e a sua categoria em gráfico)
+2 - Quais produtos venderam mais em Quantidade (mostrando o ID do produto e a sua categoria em gráfico)
 <br/>
-3 - qual foi o faturamento total
+3 - Qual foi o Faturamento Total
 <br/>
-4 - quais estados e cidades tem mais clientes 
+4 - Quais Estados e Cidades tem mais clientes 
 <br/>
-5 - qual foi o ticket médio 
+5 - Qual foi o Ticket Médio 
 <br/>
-6 - qual foi a satisfação dos clientes com base nas avaliações
+6 - Qual foi a satisfação dos clientes com base nas Avaliações
 <br/>
 7 - 
 <br/>
