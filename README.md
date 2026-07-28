@@ -23,7 +23,7 @@ Base de Dados utilizada: [Brazilian E-Commerce Public Dataset by Olist](https://
 <br/>
 
 ### 📈 Visualização dos Gráficos
-
+![image alt]()
 ### 📄 Relatório Final Automatizado
 No final de toda a análise é criado um relátorio com todas as informações valiosas de forma automática, que puxa essas informações da própria base de dados, sendo atualizado conforme as tabelas são modificadas.
 
