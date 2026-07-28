@@ -24,6 +24,7 @@ Base de Dados utilizada: [Brazilian E-Commerce Public Dataset by Olist](https://
 
 ### 📈 Visualização dos Gráficos
 ![image alt](https://github.com/jgabryelp/projeto-analise-de-dados-ecommerce-/blob/main/graficoestadosecidades.png?raw=true)
+![image alt](https://github.com/jgabryelp/projeto-analise-de-dados-ecommerce-/blob/main/graficopizza.png?raw=true)
 ![image alt]()
 ### 📄 Relatório Final Automatizado
 No final de toda a análise é criado um relátorio com todas as informações valiosas de forma automática, que puxa essas informações da própria base de dados, sendo atualizado conforme as tabelas são modificadas.
