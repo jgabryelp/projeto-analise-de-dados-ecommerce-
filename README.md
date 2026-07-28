@@ -32,6 +32,7 @@ No final de toda a análise é criado um relátorio com todas as informações v
 ### 🚀 Como Executar o projeto
 1 - baixe a base de dados utilizada: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 <br/>
-2 - baixe esse notebook com os códigos: [Análise Dados E-commerce]()
+2 - baixe o notebook com os códigos: [Análise Dados E-commerce.ipynb](https://github.com/jgabryelp/projeto-analise-de-dados-ecommerce-/blob/main/analiseseccomerce.ipynb)
 <br/>
+3 - todos os arquivos .csv devem estar na mesma pasta do notebook para que os códigos possam ser rodados
 
